@@ -29,7 +29,7 @@
 <p align="left">
 <a href="https://fb.com/https://www.facebook.com/donsssss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/donsssss/" height="30" width="40" /></a>
 <p align="left">
- <a href="mailto:www.llivancc@gmail.com"target="blank"><img align="center"src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"alt="https://www.llivancc@gmail.com" /></a>
+ <a href="mailto:llivancc@gmail.com"target="blank"><img align="center"src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"alt="https://www.llivancc@gmail.com" /></a>
 </p>
 <!-- linea final-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
